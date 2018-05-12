@@ -1,10 +1,16 @@
 _repo: Seattle-Car-Foundry-Company-Catalogue-No-3-December-1913_49341
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49341-h/images/cover.jpg
 creator:
   author:
     agent_name: Company, Seattle Car & Foundry
     gutenberg_agent_id: '45273'
     url: http://www.gutenberg.org/2009/agents/45273
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49341#Seattle-Car-Foundry-Company-Catalogue-No-3-December-1913
 gutenberg_issued: '2015-07-01'
 gutenberg_type: Text
 identifiers:
